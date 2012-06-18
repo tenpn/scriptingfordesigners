@@ -1,0 +1,90 @@
+* Overview
+
+** todo
+
+*** DONE set up github repro
+    CLOSED: [2012-06-18 Mon 20:33]
+
+*** TODO lay out lessons
+**** topics to cover:
+***** TODO types and variables
+***** TODO logic control
+***** TODO scoping
+***** TODO maintainability, readability, DRY, KISS, coding standards
+***** TODO puzzle solving techniques
+***** TODO functions, parameters, return values
+***** TODO introduction to tables
+***** TODO data structures, tools in the arsenal
+****** TODO arrays, lists
+****** TODO stacks
+****** TODO queues
+****** TODO state machines
+****** TODO trees
+***** TODO debugging
+****** TODO debugger
+****** TODO print statments
+***** TODO object orientated design
+***** TODO brief overview of other languages
+****** TODO javascript, similaries - curly braces, web standard, poor library.
+****** TODO java, less similar, very OO
+****** TODO python, whitespace, minimalist
+****** TODO C, memory management, speed
+****** TODO clojure/haskell, just for the mind bend and to prove it exists
+***** TODO game?
+
+*** TODO get feedback from Lee
+*** TODO decide on presentation/lesson format. Powerpoint? Markdown? Html?
+*** TODO source enough laptops for everyone
+*** TODO schedule first session!
+    
+* Lesson 1
+
+** Course overview
+*** teaching /programming/, not specific language
+*** not scripting: good scripting IS programming
+*** example-led
+*** will change langauge so we don't get tied down
+**** we should learn concepts, not keywords
+**** good practices work in all langauges
+*** by end: able to jump in and solve problems in any environment
+
+** Aims
+*** get quickly to coding, minimal overview
+*** hello world
+*** talk about syntax, good practices
+*** variables
+
+** install lua
+*** provide link
+*** start installing
+
+** what is scripting language
+*** "dynamically typed"
+**** fast to write, quick to modify
+*** "interpreted"
+**** type-load-run loop is quick
+*** downside is speed of execution
+
+** why lua
+*** few symbols 
+**** no cury braces, ||, &&, etc
+**** easy to read and format
+*** concise language
+*** dynamically typed
+*** interpreted
+*** easy to install
+*** common language in industry
+*** powerful features, eg tables, oo for later
+
+** hello world
+
+** input/output
+   
+** variables
+
+** types
+
+* Lesson 2
+
+* Lesson 3
+
