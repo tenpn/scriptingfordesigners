@@ -63,7 +63,9 @@
 **** fast to write, quick to modify
 *** "interpreted"
 **** type-load-run loop is quick
-*** downside is speed of execution
+*** downsides: 
+**** slow to execute
+**** some errors found only at runtime
 
 ** why lua
 *** few symbols 
