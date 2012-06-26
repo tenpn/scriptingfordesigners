@@ -46,12 +46,12 @@
 *** will change langauge so we don't get tied down
 **** we should learn concepts, not keywords
 **** good practices work in all langauges
-*** by end: able to jump in and solve problems in any environment
+*** by end: confident enough to tackle problems in any environment
 
 ** Aims
 *** get quickly to coding, minimal overview
 *** hello world
-*** talk about syntax, good practices
+*** talk about logical controls, good practices
 *** variables
 
 ** install lua
@@ -72,16 +72,36 @@
 **** no cury braces, ||, &&, etc
 **** easy to read and format
 *** concise language
-*** dynamically typed
-*** interpreted
+*** dynamically typed and interpreted
 *** easy to install
 *** common language in industry
 *** powerful features, eg tables, oo for later
 
 ** hello world
 
+print ("hello world!")
+
+*** that's it!
+*** "function call" 
+**** function is a collection of reusable code
+
+*** "hello world" is a string
+*** "parameter" to function 
+**** data we want function to operate on
+
 ** input/output
+
+print("please enter your name:")
+name = io.read()
+print("hello " .. name .. "!")
    
+*** line 2 is "variable" storing "return value" from function
+**** some functions return a result after operating on code
+**** can store result in a variable
+**** variable is storage of any type
+**** "io" is a library, or a collection of functions
+**** in this case read() is returning your input
+
 ** variables
 
 ** types
