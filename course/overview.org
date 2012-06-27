@@ -89,20 +89,32 @@ print ("hello world!")
 *** "parameter" to function 
 **** data we want function to operate on
 
+*** task: print the company name
+
 ** input/output
 
 print("please enter your name:")
 name = io.read()
 print("hello " .. name .. "!")
    
-*** line 2 is "variable" storing "return value" from function
+*** line 2: "variable" storing "return value" from function
 **** some functions return a result after operating on code
 **** can store result in a variable
 **** variable is storage of any type
+***** a labeled box containing data
 **** "io" is a library, or a collection of functions
 **** in this case read() is returning your input
 
-** variables
+*** line 3: ".." stitches two strings together.
+**** makes one big string
+**** fetches string from name variable, stiches to both sides
+
+*** task: also ask for, and print, the user's age in one line: "hello pete, age 20!"
+
+** variables and equations
+
+*** simple mathmatical equations work as normal
+*** precedence important, brackets can override
 
 ** types
 
